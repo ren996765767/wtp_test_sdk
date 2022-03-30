@@ -5,7 +5,7 @@ spec.name         = "WintopaySDK"
 spec.version      = "1.0"
 spec.summary      = "WintopaySDK"
 spec.description  = <<-DESC
-  这是个描述
+  这是个描述这是个描述这是个描述这是个描述
                    DESC
 spec.homepage = "https://github.com/ren996765767/wtp_test_sdk.git"
 spec.license      = { :type => "MIT", :file => "FILE_LICENSE" }
